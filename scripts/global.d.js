@@ -15,7 +15,7 @@ const Simulation = {
 const Particles = [];
 const Mouse = [0, 0, false];
 
-let Selected = "LAVA";
+let Selected = "DUST";
 
 const UpdateInterval = 125;
 let LastTime = performance.now();
